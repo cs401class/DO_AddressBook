@@ -1,0 +1,3 @@
+Lynn,Grewe,123 3rd ave,Hayward,ca,28666,Lynn.gre@csueastbay.edu,510-885-4167
+Butch,Grewe,Bay Avenue,Capitoal,Ca,99999,bg@gmail.com,415-389-1239
+Hao-2,Do-2,200 Carlo Bee Blvd-2,Hayward-2,CA-2,95111,408-400-5050,howard@gmail.com-2
