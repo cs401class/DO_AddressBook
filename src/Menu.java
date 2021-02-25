@@ -4,7 +4,7 @@ import java.util.Scanner;
  * It prompt, read the data from console.
  * And check if inputs are correct.
  *
- * @version 1.0
+ * @version 2.0
  *
  */
 public class Menu {

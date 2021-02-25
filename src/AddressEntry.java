@@ -2,7 +2,7 @@
  * It represents the Address Entry object
  * which has all of the required attributes.
  *
- * @version 1.0
+ * @version 2.0 Feb 2021
  *
  */
 public class AddressEntry {
